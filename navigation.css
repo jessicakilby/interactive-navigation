@@ -1,0 +1,12 @@
+ul li {
+	list-style-type: none;
+}
+
+a:hover {
+	color: darkgreen;
+}
+
+a:active {
+	margin: 0 5px;
+	background-color: yellow;
+}
